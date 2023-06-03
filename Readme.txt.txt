@@ -1,0 +1,1 @@
+Untuk mengerjakan soal saya baru menyelesaikan nya sampai nomor 3 dan untuk semua soalnya saya jadikan 1 projek dalam projek "JawabanTestNo1".
