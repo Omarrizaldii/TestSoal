@@ -1,1 +1,2 @@
 Untuk mengerjakan soal saya baru menyelesaikan nya sampai nomor 3 dan untuk semua soalnya saya jadikan 1 projek dalam projek "JawabanTestNo1".
+dan untuk soal nomor 3 atau api buat controller get nya belum terhapus.
